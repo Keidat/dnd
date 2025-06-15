@@ -4,62 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>덤앤더머첫인상현인상표 - by Kei</title>
-    <style>
-        *{box-sizing: border-box; padding: 0px; margin: 0px;}
-        body{
-            color: black;
-            font-size: small;
-            text-align: center;
-        }
-        a{
-            text-decoration: none;
-            color: black;
-        }
-        .div1{background-image: url(data/dnd/2025__1.png);
-        background-size: 300px 380px;
-        background-repeat: no-repeat;
-        position: relative;
-    }
-        .div2{background-image: url(data/dnd/2025__2.png);
-        background-size: 300px 380px;
-        background-repeat: no-repeat;
-        position: relative;
-    }
-        .div3{background-image: url(data/dnd/2025__3.png);
-        background-size: 300px 380px;
-        background-repeat: no-repeat;
-        position: relative;
-    }
-        .div4{background-image: url(data/dnd/2025__4.png);
-        background-size: 300px 380px;
-        background-repeat: no-repeat;
-        position: relative;
-    }
-        .div5{background-image: url(data/dnd/2025__5.png);
-        background-size: 300px 380px;
-        background-repeat: no-repeat;
-        position: relative;
-    }
-        .div6{background-image: url(data/dnd/2025__6.png);
-        background-size: 300px 380px;
-        background-repeat: no-repeat;
-        position: relative;
-        color: black;
-    }
-    .top{
-        width: 290px;
-        height: 60px;
-    }
-    .headimg{
-        width: 63px;
-        height: 60px;
-    }
-    .first{
-        width: 38%;
-    }
-    </style>
+    <link rel="stylesheet" href="dnd.css">
 </head>
 <body>
+    <!-- <img src="data/dnd/2025__1.png" alt="1" width="300px"> -->
     <div class="div1">
         <table border="1">
             <tr>
@@ -73,6 +21,7 @@
                 <td>
                     천사 좋아하고 반응<br>잘해주는 아는 동생
                 </td>
+
             </tr>
             <tr>
                 <td class="headimg"></td>
@@ -82,6 +31,7 @@
                 <td>
                     가끔씩 오는<br>그림 잘그리는<br>대학생
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -90,6 +40,7 @@
                 <td>
                     코리안 다이아몬드3<br>(오퍼 무서워요)
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -98,6 +49,7 @@
                 <td>
                     인성 쓰레기<br>(인성맵<br>만들때 불러라)
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -122,6 +74,7 @@
                 <td>
                     마크광인<br>(솔직히 설명이<br>더이상 필요 없음)
                 </td>
+
             </tr>
             <tr>
                 <td class="headimg"></td>
@@ -131,6 +84,7 @@
                 <td>
                     놀리는 반응이<br>맛있는 친구
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -139,6 +93,7 @@
                 <td>
                     현생에 찌든 친구
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -147,6 +102,7 @@
                 <td>
                     이젠 요리를 개잘함
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -171,6 +127,7 @@
                 <td>
                     생떼가 많은 친구
                 </td>
+
             </tr>
             <tr>
                 <td class="headimg"></td>
@@ -180,6 +137,7 @@
                 <td>
                     에임이 무서운<br>동네 형 같은 느낌
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -188,6 +146,7 @@
                 <td>
                     여러가지로<br>자주 힘들어하는<br>동생
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -196,6 +155,7 @@
                 <td>
                     여러 의미로<br>위험해 보임
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -215,11 +175,12 @@
             <tr>
                 <td class="headimg"></td>
                 <td class="first">
-                    마크하는 그림러
+                    마크하는 그림러러
                 </td>
                 <td>
                     이 누나도 처음<br>이후에 교류가<br>없었음
                 </td>
+
             </tr>
             <tr>
                 <td class="headimg"></td>
@@ -229,6 +190,7 @@
                 <td>
                     <b>똥</b><br>(자세한 설명은<br>생략한다)
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -237,6 +199,7 @@
                 <td>
                     gay가 되신듯
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -245,6 +208,7 @@
                 <td>
                     활발함<br>하는 게임이<br>많은거 같음
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -269,6 +233,7 @@
                 <td>
                     맑눈광의 거인
                 </td>
+
             </tr>
             <tr>
                 <td class="headimg"></td>
@@ -278,6 +243,7 @@
                 <td>
                     은은히 미쳐있는<br>사이렌
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -286,6 +252,7 @@
                 <td>
                     <b>또라이</b>
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -294,6 +261,7 @@
                 <td>
                     님 왜 골드임?<br>생태계 망치지 말고<br>빨리 올라가 주세요
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -318,6 +286,7 @@
                 <td>
                     코딩 ㅅㅂ
                 </td>
+
             </tr>
             <tr>
                 <td class="headimg"></td>
@@ -327,6 +296,7 @@
                 <td>
                     오타쿠는 사라지고<br>인싸만 남은거 같음
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -335,6 +305,7 @@
                 <td>
                     해외살아서 자주<br>등장은 안하지만<br>반응이 맛있음
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
@@ -343,6 +314,7 @@
                 <td>
                     마크 파쿠르<br>개쩌는 친구
                 </td>
+
             </tr><tr>
                 <td class="headimg"></td>
                 <td class="first">
